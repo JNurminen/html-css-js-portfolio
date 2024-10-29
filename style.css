@@ -167,6 +167,10 @@ section {
   height: 50vh;
 }
 
+.profile-pic {
+  border-radius: 4rem;
+}
+
 .section__pic-container {
   display: flex;
   height: 400px;
@@ -282,7 +286,7 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  border-radius: 4rem;
 }
 
 .arrow {
